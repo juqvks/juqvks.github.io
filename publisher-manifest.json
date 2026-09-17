@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "edab3110c4ef2f1992aefe51",
+  "owner": "juqvks",
+  "repo": "juqvks.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "51dca1b6e7f0c02a427145b4",
+      "a": "WgetCloud",
+      "b": "网络加速服务",
+      "entity": "WgetCloud",
+      "brand": "WgetCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fd2e67c4b1bc90c4e932350420771451a79244dfc5aeec4d3d56a0f4111a1db2",
+      "content": {
+        "primary_entity": "WgetCloud",
+        "keyword1": "WgetCloud",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android、iOS 与路由器上均可使用，按对应客户端文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选择套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需选择，快速配置",
+          "AI_DESCRIPTION": "，围绕流量额度、在线设备数与线路类型提供三档方案，基础版适合轻量使用，旗舰版覆盖流媒体与游戏加速，团队版面向多设备与定制路由需求。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个角度对比套餐，选择更适合日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "提供入门级流量额度，适合个人日常浏览与轻度流媒体使用。",
+          "AI_FEATURE_TEXT_2": "在流量与设备数量上更宽裕，IPLC 专线优化游戏延迟并解锁原生流媒体。",
+          "AI_FEATURE_TEXT_3": "面向多设备与团队场景，含 VIP 高带宽节点与企业定制路由选项。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_GUIDE_INTRO": "先确认使用设备与流量需求，再对应套餐完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "WgetCloud 提供按月或按年计费的网络加速方案，三档套餐分别适配个人轻量、流媒体游戏与多设备团队场景，可根据设备数与流量额度灵活选择。",
+          "AI_HERO_SUBTITLE": "多设备网络加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持多台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏体验",
+          "AI_PLANS_INTRO": "对比流量额度、设备上限与线路类型，选择匹配日常使用强度的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选方案支持的设备类型与在线数量，确认当前设备满足要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "WgetCloud 加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何根据设备数量选择套餐？",
+          "AI_FAQ_ANSWER_1": "基础版适合手机与电脑组合的轻度使用，旗舰版适合多设备用户，团队版适合小团队或家庭多终端场景。按实际在线设备规模选择即可。",
+          "AI_FAQ_QUESTION_2": "旗舰版与基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量额度更高，设备上限更多，并加入 IPLC 专线游戏加速优化与优先工单支持。基础版则满足日常浏览与基础流媒体等轻度使用场景。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买套餐后获取订阅信息，在所选客户端中找到订阅或配置导入入口，按客户端文档说明粘贴或导入即可。不同系统的操作路径略有差异，以对应客户端说明为准。",
+          "AI_FAQ_QUESTION_4": "按月付费和按年付费如何选择？",
+          "AI_FAQ_ANSWER_4": "按月付费灵活，适合短期试用或需求变动较大的用户；按年付费单价更低，适合长期稳定使用。三档套餐均提供按年付费方式，可根据使用周期决定。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备、高流量需求，支持多台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由选项，并配备专属客户经理服务，适合小型团队或工作室。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bb26a29082285c211091d1785f4351ee2cb70d02342644edac2913d3b97ae2e0",
+    "sitemap.xml": "3991d396355d37f2a928c6b9e51553329867ef1005ef6c16023bbd2d2ae8d6bb",
+    "robots.txt": "dc4bf5b6317bdad6e82e9b58d205d0801cb761cc15e92a521a82c209046e6a13",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1613293da709a46d1efbdfac61f83e6d4c62504909be159bbf0e9a83b1f29dfd"
+}
